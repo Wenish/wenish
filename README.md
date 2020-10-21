@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an experienced Full Stack developer, building scalable apps and coding for fun!
+I'm an Full Stack developer, building scalable apps and coding for fun!
 
 [![Node](https://aleen42.github.io/badges/src/node.svg)](https://github.com/aleen42/badges)
 [![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](https://github.com/aleen42/badges)
