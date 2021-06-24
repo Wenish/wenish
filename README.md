@@ -18,5 +18,4 @@ I'm an Full Stack developer, building apps, creating games and coding for fun!
 I also do music:
 
 [![spotify](https://aleen42.github.io/badges//src/spotify.svg)](https://open.spotify.com/artist/2UMPXGNnurwP45ae7lPdAG)
-
 [![soundcloud](https://aleen42.github.io/badges//src/soundcloud.svg)](https://soundcloud.com/clangsoul)
