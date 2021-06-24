@@ -15,7 +15,7 @@ I'm an Full Stack developer, building apps, creating games and coding for fun!
 
 [![Wenish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenish)](https://github-readme-stats.vercel.app/api?username=Wenish)
 
-I also do music:
+I also do music under the pseudonym [Clangsoul](https://clangsoul.com/):
 
 [![spotify](https://aleen42.github.io/badges//src/spotify.svg)](https://open.spotify.com/artist/2UMPXGNnurwP45ae7lPdAG)
 [![soundcloud](https://aleen42.github.io/badges//src/soundcloud.svg)](https://soundcloud.com/clangsoul)
